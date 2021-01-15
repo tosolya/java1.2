@@ -1,6 +1,6 @@
-#Отчёт о тестировании Credit Card Number Validator
+# Отчёт о тестировании Credit Card Number Validator
 
-##Краткое описание
+## Краткое описание
 
 14.01.2021 - 14.01.2021 было проведено функциональное тестирование приложения Credit Card Number Validator.
 
@@ -10,7 +10,7 @@
  * https://github.com/tosolya/java1.2/issues/1
  * https://github.com/tosolya/java1.2/issues/2
 
-##Описание процесса тестирования
+## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
